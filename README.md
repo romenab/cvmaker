@@ -40,7 +40,5 @@ This project is a web application that lets an authenticated user to fill out CV
 4. `npm run build`
 5. `cp .env.example .env`
 6. `php artisan key:generate`
-7. ./vendor/bin/sail up
-./vendor/bin/sail npm run dev
-./vendor/bin/sail artisan migrate
-8. ` php artisan migrate`
+7. `php artisan migrate`
+8. `./vendor/bin/sail up`
