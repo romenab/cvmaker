@@ -26,3 +26,12 @@ This project is a web application that lets an authenticated user to fill out CV
 ## Dashboard
 ![Ekrānuzņēmums 2024-09-05 183411](https://github.com/user-attachments/assets/f47472fa-be33-480e-81c1-963450448982)
 
+
+## Technologies Used
+- PHP >= 8.2
+- Laravel >= 11.9
+- Composer >= 2.7.6
+- Docker
+  
+## Installation
+1. `git clone https://github.com/romenab/cvmaker.git`
