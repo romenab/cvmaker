@@ -35,3 +35,12 @@ This project is a web application that lets an authenticated user to fill out CV
   
 ## Installation
 1. `git clone https://github.com/romenab/cvmaker.git`
+2. `composer install`
+3. `npm install`
+4. `npm run build`
+5. `cp .env.example .env`
+6. `php artisan key:generate`
+7. ./vendor/bin/sail up
+./vendor/bin/sail npm run dev
+./vendor/bin/sail artisan migrate
+8. ` php artisan migrate`
