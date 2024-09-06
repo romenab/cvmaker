@@ -1,6 +1,6 @@
 ## CV Maker
 
-This project is a web application that lets an authenticated user to fill out CV forms, display and update them. 
+This project is a web application that lets an authenticated user to fill out CV forms, display, update and delete them. 
 
 ## Features
 - User authentification
