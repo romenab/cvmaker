@@ -5,9 +5,9 @@ This project is a web application that lets an authenticated user to fill out CV
 ## Features
 - User authentification
 - Creating CV that allows users to fill out a form by entering their personal details, education, work experience, etc.
-- Update CV
-- Delete CV
-- Display CV
+- Updating CV
+- Deleting CV
+- Displaying CV
   
 ## Welcome page
 ![Ekrānuzņēmums 2024-09-05 183459](https://github.com/user-attachments/assets/91b363b4-f082-4cb4-98b7-ee2e6b8eba14)
